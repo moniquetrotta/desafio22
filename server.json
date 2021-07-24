@@ -1,0 +1,57 @@
+{
+  "produtos": [
+    {
+      "id" : 1,
+      "photo": "https://www.uniir.com.br/wp-content/uploads/2021/03/uniir-aluguel-de-celular-aparelho-iphone-12.png",
+      "name" : "IPHONE 12",
+      "description": "Descrição do Produto",
+      "price" : 5000
+    },
+    {
+      "id" : 2,
+      "photo": "https://www.uniir.com.br/wp-content/uploads/2021/03/uniir-aluguel-de-celular-aparelho-iphone-11-pro-max.png",
+      "name" : "IPHONE 11 PRO MAX",
+      "description": "Descrição do Produto",
+      "price" : 5000
+    },
+  {
+      "id" : 4,
+      "photo": "https://cdn.awsli.com.br/1000x1000/1723/1723772/produto/75543223/apple-iphone-12-a2172-64-gb-preto-ef5d7ad6.png",
+      "name" : "Iphone K",
+      "description": "Descrição do Produto",
+      "price" : 3000
+    },{
+      "id" : 5,
+      "photo": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-product-iphone-12-pro-max-pacific-blue.png",
+      "name" : "Iphone Z",
+      "description": "Descrição do Produto",
+      "price" : 5000
+    }, {
+      "id" : 6,
+      "photo": "https://www.uniir.com.br/wp-content/uploads/2021/03/uniir-aluguel-de-celular-aparelho-iphone-12.png",
+      "name" : "Iphone X",
+      "description": "Descrição do Produto",
+      "price" : 8000
+    },
+    {
+      "id" : 7,
+      "photo": "https://www.uniir.com.br/wp-content/uploads/2021/03/uniir-aluguel-de-celular-aparelho-iphone-11-pro-max.png",
+      "name" : "IPHONE 11 PRO MAX",
+      "description": "Descrição do Produto",
+      "price" : 4000
+    },
+{
+      "id" : 9,
+      "photo": "https://cdn.awsli.com.br/1000x1000/1723/1723772/produto/75543223/apple-iphone-12-a2172-64-gb-preto-ef5d7ad6.png",
+      "name" : "Iphone Y",
+      "description": "Descrição do Produto",
+      "price" : 5000
+    },{
+      "id" : 10,
+      "photo": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-product-iphone-12-pro-max-pacific-blue.png",
+      "name" : "Iphone B",
+      "description": "Descrição do Produto",
+      "price" : 6000
+    }
+  ]
+}
